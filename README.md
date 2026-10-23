@@ -1,5 +1,7 @@
 # Hi, I'm Wenkang 👋
 
+Built/building 18 projects.
+
 I build tools for creating, designing, and getting things done — from browser extensions and desktop apps to AI filmmaking, translation, and developer tools.
 
 My projects explore a few recurring ideas: making creative work more accessible, giving people more control over their tools, and turning repetitive tasks into simpler workflows.
